@@ -1,6 +1,14 @@
 ### Hi :wave: I am Bishmoy
 A Deep Learning and Data Science Enthusiast 
 
+### :books: Publications
+* **[ICLR 2025]** [SONICS: Synthetic Or Not - Identifying Counterfeit Songs](https://openreview.net/forum?id=PY7KSh29Z8)
+* **[CVPRW 2024]** [Leveraging Generative Language Models for Weakly Supervised Sentence Component Analysis in Video-Language Joint Learning](https://openaccess.thecvf.com/content/CVPR2024W/MULA/html/Ibn_Abdul_Hakim_Leveraging_Generative_Language_Models_for_Weakly_Supervised_Sentence_Component_Analysis_CVPRW_2024_paper.html)
+* **[IEEE ICIP 2023]** [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970)
+* [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/abs/2309.08146)
+* **[Biomed. Signal Process. Control.]** [CIFF-Net: Contextual image feature fusion for Melanoma diagnosis](https://ui.adsabs.harvard.edu/abs/2023arXiv230303672A/abstract)
+* **[Comput. Biol. Med.]** [PolypSegNet: A modified encoder-decoder architecture for automated polyp segmentation from colonoscopy images](https://www.sciencedirect.com/science/article/pii/S0010482520304509)
+
 ### :trophy: Competition Stats
 * 1st at [Deep Chimpact: Depth Estimation for Wildlife Conservation](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation)
 * 1st(Jointly) at [KaggleDays x ZbyHP Championship Meetup in Shanghai](https://logicai.io/blog/1-dont-stop-until-you-drop/)
@@ -14,17 +22,10 @@ A Deep Learning and Data Science Enthusiast
 * 159th at [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
 * 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 
-### :books: Publications
-* **[CVPRW 2024]** [Leveraging Generative Language Models for Weakly Supervised Sentence Component Analysis in Video-Language Joint Learning](https://openaccess.thecvf.com/content/CVPR2024W/MULA/html/Ibn_Abdul_Hakim_Leveraging_Generative_Language_Models_for_Weakly_Supervised_Sentence_Component_Analysis_CVPRW_2024_paper.html)
-* **[IEEE ICIP 2023]** [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970)
-* [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/abs/2309.08146)
-* **[Biomed. Signal Process. Control.]** [CIFF-Net: Contextual image feature fusion for Melanoma diagnosis](https://ui.adsabs.harvard.edu/abs/2023arXiv230303672A/abstract)
-* **[Comput. Biol. Med.]** [PolypSegNet: A modified encoder-decoder architecture for automated polyp segmentation from colonoscopy images](https://www.sciencedirect.com/science/article/pii/S0010482520304509)
-
 ### :+1::thumbsup: Interests
 * Multimodal Deep Learning
 * Large Language Models (LLMs)
-* Image Processing
+* Machine Learning Systems
 * Graph Neural Networks
 * Contrastive Learning
 
